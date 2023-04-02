@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chandan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/6M8G.gif">
+<img align="right" alt="coding" width="400" src="https://images.template.net/wp-content/uploads/2016/11/16122255/Illustration-Animated-Gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandannaskar&label=Profile%20views&color=0e75b6&style=flat" alt="chandannaskar" /> </p>
 
