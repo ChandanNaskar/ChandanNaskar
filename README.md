@@ -3,8 +3,6 @@
 
 <img align="right" alt="coding" width="300" src="https://media.tenor.com/-buzIaq-QeoAAAAM/code-coding.gif">
 
-- 🔭 I’m currently studying Computer Scinece **College Project**
-
 - 🌱 I’m currently learning **react**
 
 - 💬 Ask me about **MEARN stack, Javascript**
