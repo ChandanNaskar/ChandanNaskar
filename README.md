@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chandan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="270" src="https://media.tenor.com/-buzIaq-QeoAAAAM/code-coding.gif">
+<img align="right" alt="coding" width="270" src="https://media3.giphy.com/media/USV0ym3bVWQJJmNu3N/200w.webp?cid=ecf05e47yymps89evahxg1q8dapcpbd9icghraezimzshuun&rid=200w.webp&ct=g">
 
 - 🌱 I’m currently learning **react**
 
