@@ -1,3 +1,4 @@
+![logo](https://github.com/ChandanNaskar/ChandanNaskar/blob/main/ray-so-export%20(2).png)
 <h1 align="center">Hi 👋, I'm Chandan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
